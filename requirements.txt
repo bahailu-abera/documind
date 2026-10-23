@@ -1,0 +1,14 @@
+
+fastapi
+uvicorn[standard]
+google-genai
+pydantic-settings
+python-dotenv
+python-multipart
+pypdf
+sqlalchemy
+psycopg[binary]
+pgvector
+alembic
+pytest
+httpx
